@@ -1,0 +1,9 @@
+.App {
+ margin: 0px;
+ padding: 0px;
+ overflow-y: hidden; /* Hide vertical scrollbar */
+ overflow-x: hidden; /* Hide horizontal scrollbar */
+ -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
